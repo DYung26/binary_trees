@@ -6,7 +6,7 @@
  * @func: Pointer to a function to call for each node. The function should
  *        take an integer value as its only parameter.
  *
- * This function performs a in-order traversal on the binary tree rooted
+ * This function performs an in-order traversal on the binary tree rooted
  * at the given node @tree. For each node visited during the traversal, the
  * function @func is called with the value of the node as its parameter.
  */
